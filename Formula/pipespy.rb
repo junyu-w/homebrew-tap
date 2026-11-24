@@ -1,8 +1,8 @@
 class Pipespy < Formula
   desc "TUI that shows the data flowing through every pipe of a shell pipeline"
   homepage "https://github.com/junyu-w/pipespy"
-  url "https://github.com/junyu-w/pipespy/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "3072b84621a2f07b121c3f3f2bf2e436b8a78bac859c4d1507a15b1e422e1705"
+  url "https://github.com/junyu-w/pipespy/archive/refs/tags/v0.3.0.tar.gz"
+  sha256 "39c37e2b8e32f0d6b56916ef8f240d7057da6ce89afcb1d438ad0639226e86ad"
   license "MIT"
   head "https://github.com/junyu-w/pipespy.git", branch: "main"
 
